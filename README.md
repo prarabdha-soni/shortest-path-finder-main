@@ -15,7 +15,7 @@
 
 ### Running in your local
 
-- `git clone https://github.com/sadanandpai/shortest-path-finder.git`
+- `git clone https://github.com/prarabdha-soni/shortest-path-finder-main.git`
 - `npm install` (after navigating inside the directory)
 - `npm start`
 
