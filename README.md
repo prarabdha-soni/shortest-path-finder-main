@@ -3,13 +3,10 @@
 
 ### Shortest Path Finder using BFS algorithm in React
 
-<a href="https://sadanandpai.github.io/shortest-path-finder/dist/"><img src="cover/cover.png" alt="cover"/></a>
+<a href=""><img src="cover/cover.png" alt="cover"/></a>
 
-[![](https://img.shields.io/github/stars/sadanandpai/shortest-path-finder?style=for-the-badge)](#stars)
-[![](https://img.shields.io/github/forks/sadanandpai/shortest-path-finder?style=for-the-badge)](#forks)<br>
-![](https://visitor-badge.glitch.me/badge?page_id=shortest-path-finder)
 
-<a href="https://sadanandpai.github.io/shortest-path-finder/dist/">Live demo</a>
+<a href="">Live demo</a>
 
 </div>
 
